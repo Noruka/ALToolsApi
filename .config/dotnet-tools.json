@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "dotnet-ef": {
+      "version": "9.0.5",
+      "commands": [
+        "dotnet-ef"
+      ],
+      "rollForward": false
+    },
+    "microsoft.dynamics.businesscentral.development.tools.linux": {
+      "version": "17.0.28.6483-beta",
+      "commands": [
+        "al"
+      ],
+      "rollForward": false
+    }
+  }
+}
